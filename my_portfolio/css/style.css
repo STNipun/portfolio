@@ -1,0 +1,13 @@
+html {
+    scroll-behavior: smooth;
+    color: #fff;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+    background-color: red;
+    color: #fff;
+}
